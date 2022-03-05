@@ -1,10 +1,10 @@
 ## Olá! Eu sou o Rodrigo William
 
-- Estudante de Desenvolvimento Web Full Stack na Resilia Educação
+<center>Estudante de Desenvolvimento Web Full Stack na Resilia Educação</center>
 
 <div align="center">
   <a href="https://github.com/1995william">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=1995william&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=1995william&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/><br>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1995william&layout=compact&langs_count=16&theme=dark"/>
   
 <div style="display: inline_block;"><br>
