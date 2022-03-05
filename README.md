@@ -1,7 +1,6 @@
 ## Olá! Eu sou o Rodrigo William
 
 - Estudante de Desenvolvimento Web Full Stack na Resilia Educação
-- 
 
 <div>
   <a href="https://github.com/1995william">
@@ -9,7 +8,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1995william&layout=compact&langs_count=16&theme=dark"/>
 </div>
   
-<div style="display: inline_block; align itens: center;" ><br>
+<div style="display: inline_block; align-itens: center;" ><br>
 <img alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -19,10 +18,9 @@
 </div>
 
 ##
-<div>
+<div style ="align-itens: center;">
   <a href = "mailto:rwps1234@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rodrigo-william1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-##
 ![Snake animation](https://github.com/1995william/1995william/blob/output/github-contribution-grid-snake.svg)
