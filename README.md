@@ -1,7 +1,6 @@
  <h1 align="center">Olá! Eu sou o Rodrigo William</h1>
  <h3 align="center">Estudante de Desenvolvimento Web Full Stack na Resilia Educação</h3>
 
-#
 
 <div align="center">
   <a href="https://github.com/1995william">
