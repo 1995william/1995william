@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Rodrigo William
 
-<center>Estudante de Desenvolvimento Web Full Stack na Resilia Educação</center>
+### Estudante de Desenvolvimento Web Full Stack na Resilia Educação
 
 <div align="center">
   <a href="https://github.com/1995william">
