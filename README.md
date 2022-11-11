@@ -1,5 +1,5 @@
  <h1 align="center">Olá! Eu sou o Rodrigo William</h1>
- <h3 align="center">Desenvolvedor Web Full Stack</h3>
+ <h3 align="center">Software Developer</h3>
 
 <p align="center">
 Estou sempre buscando uma forma de aprender um pouco mais.
